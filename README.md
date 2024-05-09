@@ -5,16 +5,16 @@
 
 ## 个人信息
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：28
-* 手 机：16639002690                            邮 箱：juna3066@qq.com
-* 专 业：软件工程                                     岗 位：开发工程师
-* 学历：本科                                              英语：CET-4
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：28
+* 手 机：16639002690&nbsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：juna3066@qq.com
+* 专 业：软件工程&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：开发工程师
+* 学 历：本科&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;英 语：CET-4
 
 ## 工作及教育经历
 
-* 中软国际科技服务有限公司                    2020.5~2023.3                     华东院事业交付部门
-* 杭州微宏软件技术有限公司                    2019.8~2020.3                     研发部门
-* 河南理工大学                                           2015.9~2019.7                     计算机科学与技术专业-本科
+* 中软国际科技服务有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.5~2023.3&emsp;&emsp;&emsp;&emsp;华东院事业交付部门
+* 杭州微宏软件技术有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.8~2020.3&emsp;&emsp;&emsp;&emsp;研发部门
+* 河南理工大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp;计算机科学与技术专业-本科
 
 ## 专业技能
 
